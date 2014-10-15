@@ -1,26 +1,4 @@
- Skip to content
-This repository
 
-    Explore
-    Gist
-    Blog
-    Help
-
-    JesseJia JesseJia
-
-    1
-    0
-    0
-
-JesseJia/bubbleSort
-
-bubbleSort / bubbleSort.java
-JesseJia JesseJia 3 days ago
-Update bubbleSort.java
-
-1 contributor
-46 lines (38 sloc) 1.019 kb
-/* package whatever; // don't place package name! */
 import java.util.*;
 import java.lang.*;
 import java.io.*;
@@ -58,17 +36,4 @@ System.out.println(array[i]);
 }
 }
 }
-
-    Status
-    API
-    Training
-    Shop
-    Blog
-    About
-
-    © 2014 GitHub, Inc.
-    Terms
-    Privacy
-    Security
-    Contact
 
